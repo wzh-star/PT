@@ -1,2 +1,4 @@
 # PT
 transmission和deluge的一键安装脚本
+尽量同时支持centos和Ubuntu，Debian系统，因为我自己有时候这三个系统都用
+其实用星大的脚本就很好，但有时我们用vps刷PT，直接装一个轻量的BT客户端就足够了
